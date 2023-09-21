@@ -7,7 +7,7 @@ url: https://carliney.github.io
 # Owner/author information
 owner:
   name: Jiang Yiyi
-  avatar: smaller.jpg
+  avatar: title.jpg
  # bio:
   email: 22134077@zju.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -38,14 +38,11 @@ links:
     url: /file/resume.pdf
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Fundings
-    url: /fundings/
+  - title: Research Proposal
+    url: /proposal/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
