@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yiyi Jiang (江奕奕)**.
 
-I am a final year master student majoring in **Mechanical Engineering** at Zhejiang University. Here is [[my CV](https://jiangyiyi.github.io/file/resume.pdf)].
+I am a final year master student majoring in **Mechanical Engineering** at Zhejiang University. Here is [[my CV](https://carliney.github.io/file/resume.pdf)].
 <br>
 
 ## Academic Background
