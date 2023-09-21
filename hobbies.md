@@ -10,23 +10,26 @@ title: Hobbies
 
 <div class="third">
 <img src="/images/tra1.jpg">
+
 <img src="/images/tra2.jpg">
+
 <img src="/images/tri3.jpg">
-</div>
+</div >
+
 <br>I enjoy traveling, seeing beautiful landscapes, experiencing various activities; it's a part of life.
 
 ## Swimming & Exercise
 
 <div class="third">
 <img src="/images/swm1.jpg">
-<img src="/images/swm2.jpg">
-</div>
+</div >
+
 <br>Exercise is a way to regulate both the body and mind, and it has many benefits. I am a member of the college swimming team and together with the team, we participated in an intercollegiate competition and won first place.
 
 
 ## Reading books
 
-<div>
+<div class="third">>
 <img src="/images/book3.jpg">
 </div>
 <br>It's important for people to enjoy solitude, and books make great companions.
