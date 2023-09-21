@@ -29,7 +29,7 @@ title: Hobbies
 
 ## Reading books
 
-<div class="third">>
+<div class="third">
 <img src="/images/book3.jpg">
 </div>
 <br>It's important for people to enjoy solitude, and books make great companions.
