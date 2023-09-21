@@ -3,41 +3,33 @@ layout: page
 permalink: /proposal/index.html
 title: Research Proposal
 ---
-## 利用机器学习和计算机视觉技术实现自动化的珊瑚白化监测与预测
+## Application of Machine Learning and Computer Vision in Biomedical Engineering for Robot Vision
 
-摘要：
-珊瑚白化是全球珊瑚礁生态系统面临的重大挑战之一，对其生存和可持续发展造成了严重威胁。本研究旨在利用机器学习和计算机视觉技术，开发一种自动化的珊瑚白化监测与预测系统，以提高珊瑚白化事件的及时发现和预警能力。通过分析大规模的水下图像和视频数据，结合珊瑚健康指标的监测和分类算法，实现对珊瑚白化的自动检测和预测。本研究对于提高珊瑚礁生态系统的保护和管理具有重要意义，为相关政策和决策提供科学依据。
+## Abstract:
+This research aims to explore the potential of machine learning and computer vision in the field of biomedical engineering for robot vision applications. By combining robotics technology and computer vision algorithms, the study focuses on enhancing the visual perception and intelligent decision-making capabilities of robots in medical diagnosis, surgical assistance, and rehabilitation therapy. The research will specifically concentrate on the design and training of machine learning models, optimization of visual perception algorithms, and technological innovations in human-robot interaction. The findings of this study will provide crucial scientific support for advancing the development and application of robot vision technology in the field of biomedical engineering.
 
-关键词：珊瑚白化，机器学习，计算机视觉，监测与预测，自动化
+## Keywords: Robot vision, Machine learning, Computer vision, Biomedical engineering, Medical diagnosis, Surgical assistance, Rehabilitation therapy
 
-研究背景与目的：
-珊瑚白化是温度升高等环境压力引起的一种病理反应，严重影响了珊瑚的健康和生存能力。本研究旨在利用机器学习和计算机视觉技术，开发一种自动化的珊瑚白化监测与预测系统，以提高珊瑚白化事件的及时发现和预警能力。
+## Background and Objectives:
+The application of robots in biomedical engineering holds great promise, and robot vision plays a vital role in robot perception and decision-making, crucial for enhancing autonomy and intelligence. This research aims to explore the potential of machine learning and computer vision in biomedical engineering for robot vision applications, with a focus on improving the visual perception and intelligent decision-making capabilities of robots in medical diagnosis, surgical assistance, and rehabilitation therapy.
 
-研究方法和步骤：
-（1）数据采集：使用水下机器人搭载的摄像头采集珊瑚礁的图像和视频数据，在不同时间和空间尺度上覆盖多个珊瑚礁样点。
-（2）数据处理：利用计算机视觉技术对采集到的图像和视频数据进行预处理、特征提取和数据增强，以获取高质量的珊瑚图像数据集。
-（3）机器学习模型开发：基于珊瑚图像数据集，训练和优化机器学习模型，包括卷积神经网络（CNN）和支持向量机（SVM），以实现珊瑚白化的自动检测和分类。
-（4）模型评估与优化：通过交叉验证和性能评估指标，对机器学习模型进行评估和优化，提高珊瑚白化检测的准确性和鲁棒性。
-（5）白化事件预测：根据历史数据和环境因素，建立珊瑚白化的预测模型，通过机器学习算法和时间序列分析方法，实现珊瑚白化事件的预测和预警。
+## Research Methods and Steps:
+(1) Literature review and theoretical research: Conduct an in-depth study of relevant theories and methods in robot vision, machine learning, and computer vision, and gain insights into the latest research advancements and application cases.
+(2) Design and training of machine learning models: Based on specific applications in biomedical engineering, design and optimize machine learning models suitable for robot vision, including convolutional neural networks (CNNs), recurrent neural networks (RNNs), etc.
+(3) Optimization of visual perception algorithms: Tailor traditional computer vision algorithms to specific visual tasks in biomedical engineering, enhancing the visual perception and image processing capabilities of robots.
+(4) Technological innovations in human-robot interaction: Investigate interaction modes and interface designs between robots and humans, achieving more natural and intelligent human-machine interaction to enhance the practical application of robots in biomedical engineering.
 
-预期成果和意义：
-预期成果包括开发出一种自动化的珊瑚白化监测与预测系统，能够实时监测和预测珊瑚白化事件，提供及时的预警和决策支持。该系统将为珊瑚礁生态系统的保护和管理提供重要的科学依据，帮助相关机构和保护组织制定有效的保护策略和管理措施，促进珊瑚礁的可持续发展。
+## Expected Outcomes and Significance:
+Expected outcomes include the development of high-accuracy and stable machine learning models, optimization of visual perception algorithms suitable for biomedical engineering, and the implementation of innovative technologies for human-robot interaction. These outcomes will elevate the visual perception and intelligent decision-making capabilities of robots in medical diagnosis, surgical assistance, and rehabilitation therapy, promoting the development and application of robot technology in the field of biomedical engineering.
 
-研究计划：
-本研究计划的时间框架如下：
+## Research Plan:
+The research plan will span three years and encompass the following stages:
+(1) Year 1: Conduct a comprehensive literature review and theoretical research, gaining an in-depth understanding of relevant theories and methods in robot vision, machine learning, and computer vision.
+(2) Year 2: Design and train machine learning models suitable for robot vision, optimize traditional computer vision algorithms to enhance the visual perception and image processing capabilities of robots.
+(3) Year 3: Investigate interaction modes and interface designs for human-robot interaction, achieve more natural and intelligent human-machine interaction, and comprehensively evaluate and validate the research outcomes.
 
-第一年：
-收集珊瑚礁图像和视频数据，并进行初步的数据预处理和特征提取。
-开发珊瑚白化的机器学习模型，并进行初步的模型训练和优化。
-第二年：
-完善数据处理流程和机器学习模型，提高珊瑚白化检测的准确性和鲁棒性。
-建立珊瑚白化的预测模型，结合历史数据和环境因素进行模型训练和预测。
-第三年：
-对系统进行整体评估和优化，验证系统的性能和可行性。
-撰写研究报告，并提交相关期刊和会议进行论文发表，分享研究成果。
-进行实地测试和验证，与相关机构和保护组织合作，应用研究成果于实际保护工作中。
-预期预算：
-预计所需的研究经费包括数据采集设备、机器学习算法开发和优化、计算资源、研究人员的薪酬和差旅费用等。具体的预算将根据研究的具体需求和实际情况进行进一步细化和调整。
+## Demonstration of Research Capability and Level:
+I possess a solid background in computer science and engineering, with a sound understanding of fundamental theories and algorithms in machine learning and computer vision. In previous research, I have gained extensive experience in machine learning model design and training, optimization of computer vision algorithms, and innovation in human-machine interaction. I have actively participated in research projects in the field of biomedical engineering, acquiring practical experience in robot vision applications. I demonstrate excellent teamwork and problem-solving abilities and am capable of independent research work.
 
-结论：
-本研究计划旨在利用机器学习和计算机视觉技术实现自动化的珊瑚白化监测与预测系统，提高珊瑚白化事件的及时发现和预警能力。通过该系统的开发和应用，将为珊瑚礁生态系统的保护和管理提供重要的科学依据，促进珊瑚礁的可持续发展，并对全球珊瑚礁生态系统的保护产生积极的影响。
+## Conclusion:
+This research aims to explore the potential of robot vision applications in the field of biomedical engineering by leveraging machine learning and computer vision. By designing and training machine learning models, optimizing visual perception algorithms, and innovating human-robot interaction, the study seeks to enhance the visual perception and intelligent decision-making capabilities of robots in medical diagnosis, surgical assistance, and rehabilitation therapy. The findings of this research will provide critical scientific support for advancing the development and application of robot vision technology in the field of biomedical engineering.机视觉技术实现自动化的珊瑚白化监测与预测系统，提高珊瑚白化事件的及时发现和预警能力。通过该系统的开发和应用，将为珊瑚礁生态系统的保护和管理提供重要的科学依据，促进珊瑚礁的可持续发展，并对全球珊瑚礁生态系统的保护产生积极的影响。
