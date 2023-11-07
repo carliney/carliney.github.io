@@ -13,7 +13,7 @@ I am a final year master student majoring in **Mechanical Engineering** at Zheji
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> Unlocking Potential, Empowering Minds,Welcome to engage in academic exchanges!**
 
 - **Sep 2017 - June 2021:** Dalian Maritime University (211)  
    B.Eng. in Marine Engineering college   
@@ -48,7 +48,10 @@ During my master's program, my research focus is on computer vision applied to u
 ## Scientific Research Achievements
 
 -  **Yiyi Jiang**,Mengjie Qu, Ying Chen.Coral Dectection, Ranging, and Assessment(CDRA) algorithm-based automatic estimation of coral reef coverage. Marine Environmental Research, 2023, [[https://doi.org/10.1016/j.marenvres.2023.106157.](https://authors.elsevier.com/c/1hjyTW5UJNpxc)]
+-  Xinhui Zheng, Wenbo Xu, Hongxu Dai, Rongrong Li, **Yiyi Jiang**, Qiyan Tian, Zhang Qifeng,Xiaohui Wang.A coordinated trajectory tracking method with active utilization of drag for underwater vehicle manipulator systems. Ocean Engineering, under review.
 -  Mengjie Qu, **Yiyi Jiang**. ROV-Based In-situ Compression Device for Fixating Deep-Sea Bivalves and Other Large Organisms, a patent currently under review.
 -  Ying Chen, Haoda Li, Xinyu An, Zhikun Wang, **Yiyi Jiang**, and Haocai Huang. The instruction manual for the Dual-Drive Autonomous Underwater Helicopter, a patent currently under review.
--  **Jiang, Y.**, & Chen, Y. (2023). "Mid-Scale Coral Detection Platform." presented at the National Conference on Marine Technology (China).Yiyi Jiang delivered the on-site presentation.
+-  Mengjie Qu, **Yiyi Jiang**. Yanan Di, Yiwen Pan. The Application of Deep Learning-Based Marine Bivalve Comet Detection in Marine Pollution Monitoring, a patent currently under review. 
+-  Mengjie Qu, **Yiyi Jiang**. A Deep Learning-Based Method for Identification and Counting of Micronucleated Cells in Marine Bivalves, a patent currently under review.
+-  **Jiang, Y.**, & Chen, Y. (2023). "Mid-Scle Coral Detection Platform." presented at the National Conference on Marine Technology (China).Yiyi Jiang delivered the on-site presentation.
 
