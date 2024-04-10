@@ -27,6 +27,7 @@ title: Cruise Participation
 ### 2022.11
 
 - Participated in 996 offshore training for the Northern Transfer Project.
+- Sanya Port - South China Sea
 - Conducted testing of multiple devices.
 - Gained knowledge of maritime testing methods and precautions for ships.
 <div >
