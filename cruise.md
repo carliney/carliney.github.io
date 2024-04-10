@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/index.html
+permalink: /cruise/index.html
 title: Cruise Participation
 ---
 
@@ -23,6 +23,7 @@ title: Cruise Participation
 <div >
 <img src="/images/sea14.jpg">
 </div >
+
 ### 2022.11
 
 - Participated in 996 offshore training for the Northern Transfer Project.
@@ -38,6 +39,7 @@ title: Cruise Participation
 
 <img src="/images/sea24.jpg">
 </div >
+
 ### 2023.02
 
 - Independently conducted experimental validation for the project.
