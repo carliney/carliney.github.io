@@ -19,7 +19,7 @@ I am a final year master student majoring in **Mechanical Engineering** at Zheji
    B.Eng. in Marine Engineering college   
    GPA:4.0/5.0(Ranked 1st in class of 85 students)  
    National scholarship; Outstanding graduates
-- **Sep 2021 - Mar 2024(Excepted):** Zhejiang University (985)  
+- **Sep 2021 - June 2024:** Zhejiang University (985)  
     MPhil. in Mechanical Engineering, Ocean College  
     GPA:83/100  
     Outstanding graduates student；Outstanding graduates
