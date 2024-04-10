@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/cruise.md" beforeDir="false" afterPath="$PROJECT_DIR$/cruise.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
       <workItem from="1699327012537" duration="644000" />
       <workItem from="1700877043823" duration="32000" />
       <workItem from="1712716269201" duration="12000" />
-      <workItem from="1712716297981" duration="4293000" />
+      <workItem from="1712716297981" duration="4647000" />
     </task>
     <servers />
   </component>
