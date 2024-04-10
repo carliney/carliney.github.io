@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /proposal/index.html
-title: Subject of study
+title: Research
 ---
 ## Medium-Scale Coral Detection Platform--AUH
 
