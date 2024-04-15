@@ -53,7 +53,7 @@ During my master's program, my research focus is on computer vision applied to u
 -  Xinhui Zheng, Wenbo Xu, Hongxu Dai, Rongrong Li, **Yiyi Jiang**, Qiyan Tian, Zhang Qifeng,Xiaohui Wang.A coordinated trajectory tracking method with active utilization of drag for underwater vehicle manipulator systems. Ocean Engineering, under review.
 -  Qu, M., **Jiang, Y.**, Di, Y., et al. Method and application for identification and counting of micro-nucleated cells in marine bivalves based on deep learning [P]. Hainan Province: CN117253229A, December 19, 2023.
 -  Qu, M., **Jiang, Y.** In-situ restraining device for large marine organisms such as bivalves based on ROV [P]. Hainan Province: CN117678578A, March 12, 2024.
--  Qu, M., **Jiang, Y.**, Di, Y., et al. Method and application for identification and counting of micro-nucleated cells in marine bivalves based on deep learning [P]. Hainan Province: CN117253229A, December 19, 2023.
+-  Qu, M., **Jiang, Y.**, Di, Y., et al. A method for early detection and warning of marine environmental pollution [P]. Hainan Province: CN202410091595.X, 2024-02-27.
 -  In Application: Ying Chen, Haoda Li, Xinyu An, Zhikun Wang, **Yiyi Jiang**, and Haocai Huang. The instruction manual for the Dual-Drive Autonomous Underwater Helicopter.
 -  **Jiang, Y.**, & Chen, Y. (2023). "Mid-Scale Coral Detection Platform." presented at the National Conference on Marine Technology (China).Yiyi Jiang delivered the on-site presentation.
 
