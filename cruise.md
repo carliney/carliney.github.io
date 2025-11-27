@@ -66,7 +66,7 @@ title: Cruise Participation
 <div class="third">
 <img src="/images/sea41.jpg">
 
-<img src="/images/sea42.jpg">
+<img src="/images/sea42.JPG">
 
 <img src="/images/sea43.jpg">
 </div >
@@ -83,5 +83,5 @@ title: Cruise Participation
 
 <img src="/images/sea52.jpg">
 
-<img src="/images/sea53.jpg">
+<img src="/images/sea53.png">
 </div >
