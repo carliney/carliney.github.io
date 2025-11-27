@@ -9,7 +9,7 @@ title: Hobbies
 ## Travel & Experiences
 
 <div class="third">
-<img src="/images/tra1.jpg">
+<img src="/images/tra1.JPG">
 
 <img src="/images/tra2.jpg">
 
