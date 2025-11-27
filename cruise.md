@@ -55,3 +55,33 @@ title: Cruise Participation
 
 <img src="/images/s45.jpg">
 </div >
+
+### 2025.05
+
+- Conducting equipment sea trials alongside the Deep Sea No.1 research vessel.
+- Sanya Port - South China Sea
+- Validated water sampler, CTD, and other equipment sea trials.
+
+
+<div class="third">
+<img src="/images/sea41.jpg">
+
+<img src="/images/sea42.jpg">
+
+<img src="/images/sea43.jpg">
+</div >
+
+### 2025.10
+
+- Conducting equipment sea trials alongside the Deep Sea No.1 research vessel.
+- Shenzhen Port - South China Sea
+- Validated ROV, 3D laser line scanning device, and other equipment sea trials .
+
+
+<div class="third">
+<img src="/images/sea51.jpg">
+
+<img src="/images/sea52.jpg">
+
+<img src="/images/sea53.jpg">
+</div >
